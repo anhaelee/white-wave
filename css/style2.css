@@ -183,14 +183,15 @@ article{ width:1320px; margin:auto; margin-top:60px;position:sticky; }
 					    box-shadow: 5px 5px 22px 0px rgba(0, 0, 0, 0.19);
 					}
 			.myName{	line-height: 1.7em;
-						margin-top: 15px;
-						margin-left: 15px;
-						font-size: 15px;
-						font-weight: 700;
+                  				margin-top: 15px;
+                 			        margin-left: 15px;
+                  				margin-bottom: 15px;
+                 			        font-size: 15px;
+                  				font-weight: 700;
 
 			}
 			.myWorks{	width: 100%;
-						padding: 10px 10px 10px 10px; 
+						padding: 10px 0px 10px 10px; 
 
 			}
 
