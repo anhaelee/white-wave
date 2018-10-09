@@ -1,5 +1,5 @@
 
-html {font-family: 'NotoSansCJKkr', 'Sans-serif'; font-size:13px; letter-spacing: 0px; color:#333; box-sizing: border-box;}
+html {font-family: 'Noto Sans KR', sans-serif; font-size:13px; letter-spacing: 0px; color:#333; box-sizing: border-box;}
 ::selection {color:#eee; background:#333;}
 
 /* top: inherit;처럼 css에서 inherit은 아예 없었던 상태 */
